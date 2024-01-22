@@ -1,0 +1,9 @@
+2024-01-22T12:17:03.7223530+03:00 tarihinde TL cüzdanı oluşturuldu. Bakiye: 0 TL
+2024-01-22T12:17:03.7517848+03:00 tarihinde Para Yatırma: 1000,59 TL
+2024-01-22T12:17:03.7528392+03:00 tarihinde güncel bakiye sorgulaması: 1000,59 TL
+2024-01-22T12:17:03.7554423+03:00 tarihinde 1425,98 yatırılırken bir hata oluştu
+2024-01-22T12:17:03.7558504+03:00 tarihinde Para Yatırma: 1425,98 TL işlemi gerçekleştirilmedi bakiye eski haline getirildi
+2024-01-22T12:17:03.7925623+03:00 tarihinde güncel bakiye sorgulaması: 1000,59 TL
+2024-01-22T12:17:03.7949575+03:00 tarihinde Para Çekimi: 999,99 TL
+2024-01-22T12:17:03.7952653+03:00 tarihinde güncel bakiye sorgulaması: 0,60 TL
+2024-01-22T12:17:03.7953684+03:00 tarihinde 50,25 TL para çekimi talebinde bulunuldu. Hesapta Yetersiz bakiye işlem iptal edildi
