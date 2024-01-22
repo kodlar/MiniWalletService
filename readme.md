@@ -1,7 +1,7 @@
-﻿##Açıklama
+﻿**Açıklama**
 Uygulamamız memory tabanlı bir m-cüzdan konsol uygulamasıdır.
 
-##Kod Yapısı
+**Kod Yapısı**
 Uygulamada bir adet Wallet ve WalletService sınıfından oluşmaktadır.
 Program.cs üzerinde kodun uygulanması gösterilmektedir.
 
