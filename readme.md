@@ -4,7 +4,7 @@
  
 ## Kod Yapısı
 
-- Uygulamada bir adet Wallet ve WalletService sınıfından oluşmaktadır.
+- Uygulama bir adet Wallet ve WalletService sınıfından oluşmaktadır.
 Program.cs üzerinde kodun uygulanması gösterilmektedir.
 
 - Wallet.cs sınıfı cüzdan oluşturmak için gerekli özellikleri barındırır. Cüzdan oluşturma wallet.cs sınıfının yeni bir örneğinin constructor bazında alanların
